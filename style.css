@@ -63,3 +63,9 @@ body{
     width: 300px;
     text-align: left;
 }
+
+@media only screen and (max-width: 600px){
+    .main-container{
+        width: 350px;
+    }
+}
