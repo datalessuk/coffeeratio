@@ -66,14 +66,17 @@ body{
 
 @media only screen and (max-width: 600px){
     .main-container{
-        width: 350px;
+        width: 320px;
     }
     .title-container{
-        width: 350px;
+        width: 320px;
     }
 
     .title-container{
-        width: 350px;
+        width: 320px;
+    }
+    .title-container h4{
+        font-size: 1.6rem;
     }
     
 }
