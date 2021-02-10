@@ -66,6 +66,14 @@ body{
 
 @media only screen and (max-width: 600px){
     .main-container{
-        width: 350px;
+        width: 300px;
     }
+    .title-container{
+        width: 300px;
+    }
+
+    .title-container{
+        width: 300px;
+    }
+    
 }
