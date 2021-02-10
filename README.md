@@ -1,6 +1,6 @@
 # Coffee Ratio Calulator ☕ 
 
-This is a very simple coffee ratio calculator i made for my self using the 60g of coffee per 1lt or 1000g of water. I might update with more ratios in the future but for now my method of making my morining coffee using this ratio. 
+This is a very simple coffee ratio calculator i made for my self using the 60g of coffee per 1lt or 1000g of water(Big shout out to james hoffmann for the ratio). Could not find a good one online for that method. I might update with more ratios in the future but for now my method of making my morining coffee using this ratio. 
 
 Made will HTML , CSS , Javascript 
 
