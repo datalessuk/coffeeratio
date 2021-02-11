@@ -15,6 +15,7 @@ function getWaterAmount(){
 }
 
 function coffeeRatio(pWaterAmount){
+    //how many grams of coffee per g of water 
     let coffeePerGram = 0.06;
 
     return pWaterAmount * coffeePerGram;
